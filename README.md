@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá! eu sou Carlos 👾
 
-<!--
-**Carlos-hcal/Carlos-hcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Hoje trabalho com front-end e web design
+- 📖 Estudando Typescriptript
+- 🎮 Jogando...
 
-Here are some ideas to get you started:
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-hcal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-hcal&layout=compact&theme=algolia&locale=pt-br"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div>
+  <img src="https://skillicons.dev/icons?i=git,figma,ts,react,bootstrap,php,sass,html,js,unity,cs" />
+</div>
