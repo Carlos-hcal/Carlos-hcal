@@ -1,5 +1,5 @@
 <div>
-  <img height="171em" src="https://github-readme-stats.vercel.app/api?username=Carlos-hcal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=Carlos-hcal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-hcal&layout=compact&theme=algolia&locale=pt-br"/>
 </div>
 
