@@ -1,6 +1,8 @@
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carlos-hcal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-hcal&layout=compact&theme=algolia&locale=pt-br"/>
+  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=Carlos-hcal&show_icons=true&theme=transparent&border_color=0484FD00&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-hcal&layout=compact&theme=transparent&border_color=0484FD00&locale=pt-br"/>
 </div>
 
 ###
