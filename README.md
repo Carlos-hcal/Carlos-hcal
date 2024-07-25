@@ -6,7 +6,7 @@
 ###
 
 <div>
-  <img src="https://skillicons.dev/icons?i=figma,ts,react,nodejs,jest,sass,mysql" />
+  <img src="https://skillicons.dev/icons?i=figma,ts,react,nodejs,jest,nextjs,sass,mysql" />
 </div>
 
 <div >
